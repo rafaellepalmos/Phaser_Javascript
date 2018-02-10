@@ -2,8 +2,15 @@
 
 ### Plague Exodus
 
+###### Controls
+**Skip Introduction** : up arrow key   
+**Movement** : arrow keys   
+**Attack** : 1   
+**Interact** : 2   
+
 ###### About
 Plague exodus is a 2D side-scroller adventure RPG game made by a group of 3 within a period of 1 month.  The game begins with a prologue wherein the player is introduced how a plague swept over the lands and drove almost all life forms to extinction.  The character learns that there is a mythical cure that could save them from extinction and sets out to find it.  It is quite a long journey and with the destruction of the plague everything else that is left alive is hungry for anything that they come across.
+
 
 ###### Screenshots
 ![plagueexodus_title](https://cloud.githubusercontent.com/assets/14798722/24197420/199c83ea-0f34-11e7-8503-121c356478ab.PNG)
